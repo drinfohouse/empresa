@@ -37,9 +37,10 @@ A operação é focada na resolução de problemas críticos de hardware e na es
 <p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
 
 ## 2. Serviços
-A **DrInfoHouse** atua de fem 
-* 🖥️ PCs e Desktops
-* 💻 Notebooks e Laptops
+Atendemos os sistemas:
+* 🖥️ PCs Desktops e similares
+* 💻 Notebooks e Laptops em geral
+* Sistemas Windows e Linux
 
 ### 🛠️ Especialidades 
 * **🏗️ Montagem de Alta Performance:** Projetos personalizados de computadores entusiastas e profissionais, com foco em *cable management* avançado e fluxo de ar otimizado (*Airflow*). <br> <br>
