@@ -1,8 +1,6 @@
 # <img src="https://github.com/drinfohouse/empresa/blob/main/g7439.png" alt="DrInfoHouse Logo" width="45" valign="middle"> DrInfoHouse
 Página institucional de informações sobre DrInfoHouse.
 
-<br>
-
 ##  Sumário de Navegação
 1. [A Empresa](#1-a-empresa)
 2. [Serviços e Padrão Técnico](#2-serviços-e-padrão-técnico)
@@ -16,9 +14,11 @@ Página institucional de informações sobre DrInfoHouse.
 <br>
 
 ## 1. A Empresa
-A DrInfoHouse foi formalizada em 2020 como uma unidade de serviço especializado em informática. A operação é a consolidação de uma trajetória técnica **iniciada em 2004**. 
+A **DrInfoHouse** foi formalizada em 2020 como uma unidade de serviço especializado em informática. A operação é a consolidação de uma trajetória técnica **iniciada em 2004**. 
 
 A operação é focada na resolução de problemas críticos de hardware e na estabilização de sistemas, priorizando um modelo de **atendimento personalizado** em contrapartida à assistência técnica convencional.
+<br>
+<br>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=qZUewI2-ugg">
@@ -28,6 +28,13 @@ A operação é focada na resolução de problemas críticos de hardware e na es
   <b>📺 Vídeo de Apresentação: Conheça nossa Oficina</b>
 </p>
 
+### Público-Alvo
+* **Pequenas e Médias Empresas (PMEs):** Estruturas que necessitam de estabilidade operacional e suporte técnico de confiança para continuidade do negócio.
+* **Usuários Avançados e Entusiastas:** Proprietários de hardware de alta performance que exigem protocolos de montagem e manutenção rigorosos.
+* **Profissionais Liberais e Home Office:** Utilizadores que dependem da integridade do sistema para produtividade e fluxos de trabalho críticos.
+* **Público com foco em excelência:** Clientes que buscam atendimento diferenciado e soluções definitivas, valorizando o rigor técnico e a transparência.
+
+<p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
 
 ## 2. Serviços
 [Breve descrição aqui...]
