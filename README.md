@@ -1,6 +1,7 @@
 # <img src="https://github.com/drinfohouse/empresa/blob/main/g7439.png" alt="DrInfoHouse Logo" width="45" valign="middle"> DrInfoHouse
 Página institucional de informações sobre DrInfoHouse.
 
+<a name="sumario"></a>
 ##  Sumário de Navegação
 1. [A Empresa](#1-a-empresa)
 2. [Assistência Técnica](#2-serviços-e-padrão-técnico)
