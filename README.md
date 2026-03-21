@@ -37,4 +37,17 @@ A operação é focada na resolução de problemas críticos de hardware e na es
 <p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
 
 ## 2. Serviços
-[Breve descrição aqui...]
+A **DrInfoHouse** atua de fem 
+* 🖥️ PCs e Desktops
+* 💻 Notebooks e Laptops
+
+### 🛠️ Especialidades 
+* **🏗️ Montagem de Alta Performance:** Projetos personalizados de computadores entusiastas e profissionais, com foco em *cable management* avançado e fluxo de ar otimizado (*Airflow*). <br> <br>
+**🔍 Análise de Falhas:** Diagnóstico técnico para identificação da causa raiz de problemas intermitentes, telas azuis (BSOD), travamentos e instabilidades de hardware ou software.  <br> <br>
+* **🧹 Limpeza Preventiva:** Higienização técnica profunda para evitar oxidação e acúmulo de resíduos, preservando a vida útil de componentes críticos em PCs e Notebooks. <br> <br>
+* **🔧 Limpeza Corretiva:** Intervenção técnica em equipamentos com falhas por contaminação ou superaquecimento, incluindo a desobstrução de dissipadores e lubrificação de ventoinhas. <br> <br>
+* **💿 Formatação e Estabilização:** Instalação limpa de sistemas operacionais com foco em integridade de drivers, remoção de *bloatwares* e configuração de partições de segurança.  <br> <br>
+* **🌡️ Análise e Otimização Térmica:** Estudo da curva de temperatura sob carga severa, com substituição de interfaces térmicas (pastas e *pads*) de alto desempenho para redução de degradação térmica (*Thermal Throttling*).  <br> <br>
+
+
+<p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
