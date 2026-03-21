@@ -25,7 +25,7 @@ A operação é focada na resolução de problemas críticos de hardware e na es
     <img src="https://img.youtube.com/vi/qZUewI2-ugg/maxresdefault.jpg" alt="Vídeo de Apresentação DrInfoHouse" width="600">
   </a>
   <br>
-  <b>📺 Vídeo de Apresentação: Conheça nossa Oficina</b>
+  <b>📺 clique na imagem para ver nosso video de apresentação </b>
 </p>
 
 ### Público-Alvo
