@@ -3,7 +3,7 @@ Página institucional de informações sobre DrInfoHouse.
 
 ##  Sumário de Navegação
 1. [A Empresa](#1-a-empresa)
-2. [Serviços e Padrão Técnico](#2-serviços-e-padrão-técnico)
+2. [Assistência Técnica](#2-serviços-e-padrão-técnico)
 3. [Localização e Horário de Atendimento](#3-localização-e-horário-de-atendimento)
 4. [Canais e Links Oficiais](#4-canais-e-links-oficiais)
 5. [Produção Intelectual](#5-produção-intelectual)
@@ -36,19 +36,19 @@ A operação é focada na resolução de problemas críticos de hardware e na es
 
 <p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
 
-## 2. Serviços
-Atendemos os sistemas:
-* 🖥️ PCs Desktops e similares
-* 💻 Notebooks e Laptops em geral
-* Sistemas Windows e Linux
+## 2. Assistência Técnica
+Atendemos arquiteturas e ecossistemas:
+* 🖥️ **PCs Desktops e Workstations:** Estações de trabalho e hardware entusiasta.
+* 💻 **Notebooks e Laptops:** Dispositivos portáteis em geral.
+* 🐧 **Sistemas:** Ambientes Windows e distribuições Linux
 
-### 🛠️ Especialidades 
-* **🏗️ Montagem de Alta Performance:** Projetos personalizados de computadores entusiastas e profissionais, com foco em *cable management* avançado e fluxo de ar otimizado (*Airflow*). <br> <br>
+### 🛠️ Serviços 
+**🏗️ Montagem de Alta Performance:** Projetos personalizados de computadores entusiastas e profissionais, com foco em *cable management* avançado e fluxo de ar otimizado (*Airflow*). <br> <br>
 **🔍 Análise de Falhas:** Diagnóstico técnico para identificação da causa raiz de problemas intermitentes, telas azuis (BSOD), travamentos e instabilidades de hardware ou software.  <br> <br>
-* **🧹 Limpeza Preventiva:** Higienização técnica profunda para evitar oxidação e acúmulo de resíduos, preservando a vida útil de componentes críticos em PCs e Notebooks. <br> <br>
-* **🔧 Limpeza Corretiva:** Intervenção técnica em equipamentos com falhas por contaminação ou superaquecimento, incluindo a desobstrução de dissipadores e lubrificação de ventoinhas. <br> <br>
-* **💿 Formatação e Estabilização:** Instalação limpa de sistemas operacionais com foco em integridade de drivers, remoção de *bloatwares* e configuração de partições de segurança.  <br> <br>
-* **🌡️ Análise e Otimização Térmica:** Estudo da curva de temperatura sob carga severa, com substituição de interfaces térmicas (pastas e *pads*) de alto desempenho para redução de degradação térmica (*Thermal Throttling*).  <br> <br>
+**🧹 Limpeza Preventiva:** Higienização técnica profunda para evitar oxidação e acúmulo de resíduos, preservando a vida útil de componentes críticos em PCs e Notebooks. <br> <br>
+**🔧 Limpeza Corretiva:** Intervenção técnica em equipamentos com falhas por contaminação ou superaquecimento, incluindo a desobstrução de dissipadores e lubrificação de ventoinhas. <br> <br>
+**💿 Formatação e Estabilização:** Instalação limpa de sistemas operacionais com foco em integridade de drivers, remoção de *bloatwares* e configuração de partições de segurança.  <br> <br>
+**🌡️ Análise e Otimização Térmica:** Estudo da curva de temperatura sob carga severa, com substituição de interfaces térmicas (pastas e *pads*) de alto desempenho para redução de degradação térmica (*Thermal Throttling*).  <br> <br>
 
 
 <p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
