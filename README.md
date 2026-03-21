@@ -44,12 +44,18 @@ Atendemos arquiteturas e ecossistemas:
 * 🐧 **Sistemas:** Ambientes Windows e distribuições Linux
 
 ### 🛠️ Serviços 
-**🏗️ Montagem de Alta Performance:** Projetos personalizados de computadores entusiastas e profissionais, com foco em *cable management* avançado e fluxo de ar otimizado (*Airflow*). <br> <br>
-**🔍 Análise de Falhas:** Diagnóstico técnico para identificação da causa raiz de problemas intermitentes, telas azuis (BSOD), travamentos e instabilidades de hardware ou software.  <br> <br>
-**🧹 Limpeza Preventiva:** Higienização técnica profunda para evitar oxidação e acúmulo de resíduos, preservando a vida útil de componentes críticos em PCs e Notebooks. <br> <br>
-**🔧 Limpeza Corretiva:** Intervenção técnica em equipamentos com falhas por contaminação ou superaquecimento, incluindo a desobstrução de dissipadores e lubrificação de ventoinhas. <br> <br>
-**💿 Formatação e Estabilização:** Instalação limpa de sistemas operacionais com foco em integridade de drivers, remoção de *bloatwares* e configuração de partições de segurança.  <br> <br>
-**🌡️ Análise e Otimização Térmica:** Estudo da curva de temperatura sob carga severa, com substituição de interfaces térmicas (pastas e *pads*) de alto desempenho para redução de degradação térmica (*Thermal Throttling*).  <br> <br>
+
+**🏗️ Engenharia de Montagem e Cable Management:** Projetos personalizados de hardware com foco em organização estética superior, fluxo de ar otimizado (*Airflow*) e durabilidade.
+
+**🔍 Análise de Falhas e Eletrônica:** Diagnóstico técnico para identificação da causa raiz de problemas intermitentes, falhas de hardware e reparos em nível de componente.
+
+**🌡️ Engenharia Térmica:** Estudo e otimização da dissipação de calor, incluindo a substituição de interfaces térmicas de alto desempenho e correção de *Thermal Throttling*.
+
+**⚙️ Estabilidade Operacional e Otimização:** Refinamento de BIOS, ajuste de frequências (clocks) e configuração de sistemas operacionais para máxima confiabilidade e performance.
+
+**🔄 Upgrades e Performance Estratégica:** Consultoria técnica para expansão de hardware, priorizando o melhor ganho de desempenho por investimento.
+
+**🕰️ Retro-Hardware e Revitalização:** Restauração técnica, higienização química e preservação de hardware clássico e sistemas legados.
 
 
 <p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
