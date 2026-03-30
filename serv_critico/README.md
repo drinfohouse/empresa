@@ -2,20 +2,19 @@
 Detalhamos os serviços que exigem atenção especial e a assinatura do **Termo de Consentimento**.
 
 ## 1. O que são Serviços Críticos?
-São intervenções onde o sucesso depende da integridade prévia de componentes microscópicos ou da estabilidade de chips de memória.
+Atividades que tem grande probabilidade de imprevistos pela sua complexidade, como por exemplo:
+* **Troca de tela notebook**
+* **Reparo de dobradiça**
+* **Troca de Teclado**
+* **Reparo Eletrônico Avançado**
 
-* **Recuperação de Dados:** Processos que envolvem estresse mecânico ou lógico em HDs e SSDs.
-* **Reparo Eletrônico Avançado:** Soldagens complexas e substituição de componentes SMD em placas-mãe.
-* **Intervenções em Firmware:** Gravação externa de BIOS ou correções de software de baixo nível.
+## 2. Protocolo de Atendimento <br>
+Como procedemos:
+&nbsp;&nbsp;&nbsp;&nbsp;1. **Análise Preliminar:** Identificamos se o serviço se enquadra como crítico. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;2. **Explicação Técnica:** O cliente recebe uma descrição clara do que será feito. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;3. **Documentação:** Procedimentos de assinatura digital, assinatura presencial, cópia de documento com foto para liberar o serviço. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;4. **Execução:** O serviço é realizado seguindo normas técnicas podendo ser gravado para registro. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;4. **Avaliação:** Verificação do sistema após intervenção encerrando a manutenção crítica. <br>
 
-## 2. Protocolo de Atendimento
-&nbsp;&nbsp;&nbsp;&nbsp;1. **Análise Preliminar:** Identificamos se o serviço se enquadra como crítico.
-&nbsp;&nbsp;&nbsp;&nbsp;2. **Explicação Técnica:** O cliente recebe uma descrição clara do que será feito.
-&nbsp;&nbsp;&nbsp;&nbsp;3. **Assinatura do Termo:** Formalização da ciência sobre os riscos e limites do reparo.
-&nbsp;&nbsp;&nbsp;&nbsp;4. **Execução:** O serviço é realizado seguindo normas técnicas rigorosas.
-
+Entre em contato com a gente se tiver interesse nesta atividade.
 ---
-
-_A transparência é nossa prioridade. Se um serviço tem 10% de chance de sucesso, o cliente saberá disso antes de investir no reparo._
-
-[⬅ Voltar para a página principal](https://github.com/drinfohouse/empresa)
