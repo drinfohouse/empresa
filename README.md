@@ -48,9 +48,11 @@ Essa dedicação nos ajudou a alcançar e manter a **nota máxima (5 estrelas) n
 
 - **Descobrindo Problemas**: máquina não liga, apresenta defeito, instabilidade ou qualquer insatisfação que o cliente observe.
 
-- **Limpeza e Prevenção**: limpeza de componentes (placa de vídeo, processador, cooler, fonte, gabinete) ou PC completo, limpeza de dutos de ar de notebooks e afins. 
+- **Limpeza e Prevenção**: limpeza de componentes (placa de vídeo, processador, cooler, fonte, gabinete) ou PC completo, limpeza de dutos de ar de notebooks e afins.
+  
+- **Upgrades e Revitalização**: atualizamos máquinas antigas e deixamos a atual ainda mais potente!
 
-- **Conserto e Calor**: Encontramos, solucionamos e otimizamos o thermal das https://maps.app.goo.gl/rxSovt8X4i8Mpe3KAmáquinas envolvendo ajuste e troca de cooler, ajuste e troca de pasta térmica, otimização de software para dissipação térmica, entre outros.
+- **Gestão Térmica**: Encontramos, solucionamos e otimizamos o thermal das https://maps.app.goo.gl/rxSovt8X4i8Mpe3KAmáquinas envolvendo ajuste e troca de cooler, ajuste e troca de pasta térmica, otimização de software para dissipação térmica, entre outros.
 
 - **Sistema em Dia**: Formatação e configuração completa para deixar o seu Windows ou Linux rápido, seguro e pronto para usar.
 
