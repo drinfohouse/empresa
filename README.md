@@ -5,11 +5,11 @@ Conheça o que nos diferencia de uma _assistência genérica_ e como trabalhamos
 <a name="sumario"></a>
 ##  Sumário de Navegação
 1. [A Empresa](#1-a-empresa)
-2. [Serviços de Assistência Técnica](#2-serviços-e-padrão-técnico)
-3. [Serviços de Aprendizado e Conhecimento](#3-localização-e-horário-de-atendimento)
-4. [Produção Intelectual](#4-canais-e-links-oficiais)
-5. [Atendimento, Localização, Horário](#5-produção-intelectual)
-6. [Termos de Serviço e Garantia](#6-diretrizes-e-garantia)
+2. [Serviços de Assistência Técnica](#2-serviços-de-assistência-técnica)
+3. [Serviços de Aprendizado e Conhecimento](#3-serviços-de-aprendizado-e-conhecimento)
+4. [Produção Intelectual](#4-produção-intelectual)
+5. [Atendimento, Localização e Horário](#5-atendimento-localização-horário)
+6. [Termos de Serviço e Garantia](#6-termos-de-serviço-e-garantia)
 7. [Sobre o Autor](#7-sobre-o-autor)
 
 
@@ -99,7 +99,7 @@ Grande parte do nosso material é disponibilizada de forma **open source**, perm
 **Localização** 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;  Rua Paranaguá 1225
 <br>&nbsp;&nbsp;&nbsp;&nbsp;  Guaira, Curitiba, Paraná, Brasil
-<br>&nbsp;&nbsp;&nbsp;&nbsp;  CEP: 80610-180
+<br>&nbsp;&nbsp;&nbsp;&nbsp;  CEP: 80630-045
 <br><br>
 _obs: por ser área residencial, não temos local de espera para clientes._
 
@@ -126,3 +126,4 @@ _obs: por ser área residencial, não temos local de espera para clientes._
 
 
 <p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
+
