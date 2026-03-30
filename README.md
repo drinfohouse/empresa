@@ -10,7 +10,6 @@ Conheça o que nos diferencia de uma _assistência genérica_ e como trabalhamos
 4. [Produção Intelectual](#4-produção-intelectual)
 5. [Atendimento, Localização e Horário](#5-atendimento-localização-horário)
 6. [Termos de Serviço e Garantia](#6-termos-de-serviço-e-garantia)
-7. [Sobre o Autor](#7-sobre-o-autor)
 
 
 <br>
@@ -124,6 +123,7 @@ _obs: por ser área residencial, não temos local de espera para clientes._
 - Explicação de cuidados e riscos de cada serviço
 - [Saiba mais]()
 
+---
 
 <p align="center">
   <a href="https://wa.me/554196596617">WhatsApp</a> • 
