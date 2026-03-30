@@ -60,7 +60,7 @@ Estes são os principais serviços, não deixe de entrar em contato para compart
 
 <p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
 
-## 3. Atendimento Remoto e Aprendizado
+## 3. Serviços de Aprendizado e Conhecimento
 **Para quem precisa de uma ajuda rápida ou quer aprender mais**
 
 - Conversa Técnica (Aulas): aulas personalizadas sobre informática em geral.
