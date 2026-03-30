@@ -50,7 +50,7 @@ Essa dedicação nos ajudou a alcançar e manter a **nota máxima (5 estrelas) n
 
 - **Limpeza e Prevenção**: limpeza de componentes (placa de vídeo, processador, cooler, fonte, gabinete) ou PC completo, limpeza de dutos de ar de notebooks e afins. 
 
-- **Conserto e Calor**: Encontramos, solucionamos e otimizamos o thermal das máquinas envolvendo ajuste e troca de cooler, ajuste e troca de pasta térmica, otimização de software para dissipação térmica, entre outros.
+- **Conserto e Calor**: Encontramos, solucionamos e otimizamos o thermal das https://maps.app.goo.gl/rxSovt8X4i8Mpe3KAmáquinas envolvendo ajuste e troca de cooler, ajuste e troca de pasta térmica, otimização de software para dissipação térmica, entre outros.
 
 - **Sistema em Dia**: Formatação e configuração completa para deixar o seu Windows ou Linux rápido, seguro e pronto para usar.
 
@@ -61,13 +61,11 @@ Estes são os principais serviços, não deixe de entrar em contato para compart
 ## 3. Atendimento Remoto e Aprendizado
 **Para quem precisa de uma ajuda rápida ou quer aprender mais**
 
-- Conversa Técnica (Aulas): Se você quer aprender a montar ou cuidar do seu próprio PC, batemos um papo e eu te ensino o caminho das pedras.
+- Conversa Técnica (Aulas): aulas personalizadas sobre informática em geral.
 
-- Tira-Dúvidas: Está na dúvida de qual peça comprar ou se o upgrade vale a pena? Eu te ajudo a decidir para você não gastar dinheiro à toa.
+- Suporte Remoto: resolução e tira dúvida sobre problemas de programas, drivers e configurações do sistema.
 
-- Suporte Remoto: Resolvemos problemas de programas, drivers e configurações do sistema direto pela internet.
-
-- Planejamento de Hardware: Orientamos na escolha de componentes para novos projetos ou upgrades, analisando o que realmente entrega desempenho para você e evitando gastos com peças desnecessárias
+- Planejamento de Hardware: Orientamos na escolha de componentes para novos projetos ou upgrades.
 
 Tem alguma demanda diferente? Basta entrar em contato para conversarmos sobre a melhor solução para sua solicitação.
 
@@ -90,5 +88,22 @@ Transformamos nossa experiência de bancada em livros, cursos e scripts para con
 Grande parte do nosso material é disponibilizada de forma **open source**, permitindo que outros profissionais e entusiastas possam estudar, utilizar e evoluir as ferramentas junto conosco.
 <p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
 
+## 5. Atendimento: Localização e Horário
+**Somos home office!**
+* Atendimento Online: disponibilidade estendida para dúvidas e agendamentos
+* Atendimento Presencial: com agendamento prévio
+* Atendimento _On-Site_: em horário comercial, sob consulta
 
+**Localização** 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;  Rua Paranaguá 1225
+<br>&nbsp;&nbsp;&nbsp;&nbsp;  Guaira, Curitiba, Paraná, Brasil
+<br>&nbsp;&nbsp;&nbsp;&nbsp;  CEP: 80610-180
+<br><br>
+_obs: por ser área residencial, não temos local de espera para clientes._
 
+<p align="center">
+  <a href="https://wa.me/554196596617">📱 Falar pelo WhatsApp</a> | 
+  <a href="https://maps.app.goo.gl/rxSovt8X4i8Mpe3KA">📍 Ver no Google Maps</a>
+</p>
+
+<p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
