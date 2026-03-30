@@ -44,17 +44,17 @@ Essa dedicação nos ajudou a alcançar e manter a **nota máxima (5 estrelas) n
 ## 2. Serviços de Assistência Técnica
 **Para PCs Desktops e Workstations, Notebooks e Laptops, Sistemas Windows e Linux!**
 
-- **Montagem Técnica**: Montamos seu computador do zero, com organização impecável e foco na ventilação interna.
+- **Montagem Técnica**: unboxing e montagem, correção de montagens anteriores, análise de peças, organização de cabos e correlatos.
 
-- **Descobrindo Problemas**: Fazemos uma análise detalhada para entender por que o computador está travando ou lento, indo direto na causa do erro.
+- **Descobrindo Problemas**: máquina não liga, apresenta defeito, instabilidade ou qualquer insatisfação que o cliente observe.
 
-- **Limpeza e Prevenção**: Uma faxina técnica completa para tirar a poeira e evitar que as peças estraguem antes da hora.
+- **Limpeza e Prevenção**: limpeza de componentes (placa de vídeo, processador, cooler, fonte, gabinete) ou PC completo, limpeza de dutos de ar de notebooks e afins. 
 
-- **Conserto e Calor**: Resolvemos problemas de superaquecimento, trocando pastas térmicas e cuidando das ventoinhas.
+- **Conserto e Calor**: Encontramos, solucionamos e otimizamos o thermal das máquinas envolvendo ajuste e troca de cooler, ajuste e troca de pasta térmica, otimização de software para dissipação térmica, entre outros.
 
-- **Sistema em Dia**: Formatação e configuração completa para deixar o seu Windows ou Linux rápido, seguro e pronto para usar
+- **Sistema em Dia**: Formatação e configuração completa para deixar o seu Windows ou Linux rápido, seguro e pronto para usar.
 
-
+Estes são os principais serviços, não deixe de entrar em contato para compartilhar sua demanda e conhecer um pouco de nossas soluções personalizadas.
 
 <p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
 
@@ -65,6 +65,10 @@ Essa dedicação nos ajudou a alcançar e manter a **nota máxima (5 estrelas) n
 
 - Tira-Dúvidas: Está na dúvida de qual peça comprar ou se o upgrade vale a pena? Eu te ajudo a decidir para você não gastar dinheiro à toa.
 
-- Suporte à Distância: Resolvemos problemas de programas, drivers e configurações do sistema direto pela internet.
+- Suporte Remoto: Resolvemos problemas de programas, drivers e configurações do sistema direto pela internet.
+
+- Planejamento de Hardware: Orientamos na escolha de componentes para novos projetos ou upgrades, analisando o que realmente entrega desempenho para você e evitando gastos com peças desnecessárias
+
+Tem alguma demanda diferente? Basta entrar em contato para conversarmos sobre a melhor solução para sua solicitação.
 
 <p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
