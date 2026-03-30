@@ -52,7 +52,7 @@ Essa dedicação nos ajudou a alcançar e manter a **nota máxima (5 estrelas) n
   
 - **Upgrades e Revitalização**: atualizamos máquinas antigas e deixamos a atual ainda mais potente!
 
-- **Gestão Térmica**: Encontramos, solucionamos e otimizamos o thermal das https://maps.app.goo.gl/rxSovt8X4i8Mpe3KAmáquinas envolvendo ajuste e troca de cooler, ajuste e troca de pasta térmica, otimização de software para dissipação térmica, entre outros.
+- **Gestão Térmica**: ajustes necessários para a máquina rodar de forma otimizada e termicamente estável
 
 - **Sistema em Dia**: Formatação e configuração completa para deixar o seu Windows ou Linux rápido, seguro e pronto para usar.
 
