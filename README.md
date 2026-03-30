@@ -17,7 +17,10 @@ Página institucional de informações sobre DrInfoHouse.
 ## 1. A Empresa
 A **DrInfoHouse** foi formalizada em 2020 como uma unidade de serviço especializado em informática. A operação é a consolidação de uma trajetória técnica **iniciada em 2004**. 
 
-A operação é focada na resolução de problemas críticos de hardware e na estabilização de sistemas, priorizando um modelo de **atendimento personalizado** em contrapartida à assistência técnica convencional.
+Nosso atendimento busca o **grau máximo de satisfação** com soluções pensadas para cada caso, em contraste com os serviços genéricos normalmente encontrados na área.
+
+Essa dedicação nos ajudou a alcançar e manter a **nota máxima (5 estrelas) nas avaliações**, um reconhecimento que confirma nosso compromisso com cada serviço entregue.
+
 <br>
 <br>
 
@@ -37,25 +40,30 @@ A operação é focada na resolução de problemas críticos de hardware e na es
 
 <p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
 
-## 2. Assistência Técnica
-Atendemos arquiteturas e ecossistemas:
-* 🖥️ **PCs Desktops e Workstations:** Estações de trabalho e hardware entusiasta.
-* 💻 **Notebooks e Laptops:** Dispositivos portáteis em geral.
-* 🐧 **Sistemas:** Ambientes Windows e distribuições Linux
+## 2. Serviços de Assistência Técnica
+**Para PCs Desktops e Workstations, Notebooks e Laptops, Sistemas Windows e Linux!**
 
-### 🛠️ Serviços 
+- **Montagem Técnica**: Montamos seu computador do zero, com organização impecável e foco na ventilação interna.
 
-**🏗️ Engenharia de Montagem e Cable Management:** Projetos personalizados de hardware com foco em organização estética superior, fluxo de ar otimizado (*Airflow*) e durabilidade.
+- **Descobrindo Problemas**: Fazemos uma análise detalhada para entender por que o computador está travando ou lento, indo direto na causa do erro.
 
-**🔍 Análise de Falhas e Eletrônica:** Diagnóstico técnico para identificação da causa raiz de problemas intermitentes, falhas de hardware e reparos em nível de componente.
+- **Limpeza e Prevenção**: Uma faxina técnica completa para tirar a poeira e evitar que as peças estraguem antes da hora.
 
-**🌡️ Engenharia Térmica:** Estudo e otimização da dissipação de calor, incluindo a substituição de interfaces térmicas de alto desempenho e correção de *Thermal Throttling*.
+- **Conserto e Calor**: Resolvemos problemas de superaquecimento, trocando pastas térmicas e cuidando das ventoinhas.
 
-**⚙️ Estabilidade Operacional e Otimização:** Refinamento de BIOS, ajuste de frequências (clocks) e configuração de sistemas operacionais para máxima confiabilidade e performance.
+- **Sistema em Dia**: Formatação e configuração completa para deixar o seu Windows ou Linux rápido, seguro e pronto para usar
 
-**🔄 Upgrades e Performance Estratégica:** Consultoria técnica para expansão de hardware, priorizando o melhor ganho de desempenho por investimento.
 
-**🕰️ Retro-Hardware e Revitalização:** Restauração técnica, higienização química e preservação de hardware clássico e sistemas legados.
 
+<p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
+
+## 3. Atendimento Remoto e Aprendizado
+**Para quem precisa de uma ajuda rápida ou quer aprender mais**
+
+- Conversa Técnica (Aulas): Se você quer aprender a montar ou cuidar do seu próprio PC, batemos um papo e eu te ensino o caminho das pedras.
+
+- Tira-Dúvidas: Está na dúvida de qual peça comprar ou se o upgrade vale a pena? Eu te ajudo a decidir para você não gastar dinheiro à toa.
+
+- Suporte à Distância: Resolvemos problemas de programas, drivers e configurações do sistema direto pela internet.
 
 <p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
