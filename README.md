@@ -5,11 +5,11 @@ Conheça o que nos diferencia de uma _assistência genérica_ e como trabalhamos
 <a name="sumario"></a>
 ##  Sumário de Navegação
 1. [A Empresa](#1-a-empresa)
-2. [Assistência Técnica](#2-serviços-e-padrão-técnico)
-3. [Localização e Horário de Atendimento](#3-localização-e-horário-de-atendimento)
-4. [Canais e Links Oficiais](#4-canais-e-links-oficiais)
-5. [Produção Intelectual](#5-produção-intelectual)
-6. [Diretrizes e Garantia](#6-diretrizes-e-garantia)
+2. [Serviços de Assistência Técnica](#2-serviços-e-padrão-técnico)
+3. [Serviços de Aprendizado e Conhecimento](#3-localização-e-horário-de-atendimento)
+4. [Produção Intelectual](#4-canais-e-links-oficiais)
+5. [Atendimento, Localização, Horário](#5-produção-intelectual)
+6. [Termos de Serviço e Garantia](#6-diretrizes-e-garantia)
 7. [Sobre o Autor](#7-sobre-o-autor)
 
 
@@ -107,5 +107,22 @@ _obs: por ser área residencial, não temos local de espera para clientes._
   <a href="https://wa.me/554196596617">📱 Falar pelo WhatsApp</a> | 
   <a href="https://maps.app.goo.gl/rxSovt8X4i8Mpe3KA">📍 Ver no Google Maps</a>
 </p>
+
+<p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
+
+## 6. Termos de Serviço e Garantia
+**Oferecemos**
+- Relatório de atendimento
+- Pós-atendimento Online
+- Acompanhamento dos resultados
+- Comprovante pagamento / nota fiscal
+- Garantia de 90 dias para produtos e serviços
+<br>
+
+**Documentação Técnica**
+- Contrato de Serviço e Consentimento de Riscos
+- Explicação de cuidados e riscos de cada serviço
+- [Saiba mais]()
+
 
 <p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
