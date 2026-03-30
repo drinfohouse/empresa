@@ -88,7 +88,7 @@ Transformamos nossa experiência de bancada em livros, cursos e scripts para con
 Grande parte do nosso material é disponibilizada de forma **open source**, permitindo que outros profissionais e entusiastas possam estudar, utilizar e evoluir as ferramentas junto conosco.
 <p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
 
-## 5. Atendimento: Localização e Horário
+## 5. Atendimento, Localização, Horário
 **Somos home office!**
 * Atendimento Online: disponibilidade estendida para dúvidas e agendamentos
 * Atendimento Presencial: com agendamento prévio
