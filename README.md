@@ -92,9 +92,9 @@ Grande parte do nosso material é disponibilizada de forma **open source**, perm
 
 ## 5. Atendimento, Localização, Horário
 **Somos home office!**
-* Atendimento Online: disponibilidade estendida para dúvidas e agendamentos
-* Atendimento Presencial: com agendamento prévio
-* Atendimento _On-Site_: em horário comercial, sob consulta
+* Atendimento Online: grande disponibilidade para dúvidas e agendamento.
+* Atendimento Presencial: com agendamento prévio.
+* Atendimento _On-Site_: em horário comercial, sob consulta.
 
 **Localização** 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;  Rua Paranaguá 1225
