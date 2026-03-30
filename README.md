@@ -72,3 +72,23 @@ Estes são os principais serviços, não deixe de entrar em contato para compart
 Tem alguma demanda diferente? Basta entrar em contato para conversarmos sobre a melhor solução para sua solicitação.
 
 <p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
+
+
+## 4. Produção Intelectual
+**Livros, Cursos e Automações** <br>
+Transformamos nossa experiência de bancada em livros, cursos e scripts para contribuir com a comunidade.
+* Obras Autorais: livros técnicos inovadores da área de TI, disponíveis aqui no github.
+* Treinamentos: videos e cursos que podem ser encontrados em nosso youtube.
+* Desenvolvimento: automações de nossa autoria para otimização de sistemas.
+<br>
+
+<p align="center">
+  <a href="https://www.youtube.com/@drinfohouse">📺 Canal no YouTube</a> | 
+  <a href="https://github.com/drinfohouse/acervo_tecnico">📚 Acervo Técnico no GitHub</a>
+</p> <br>
+
+Grande parte do nosso material é disponibilizada de forma **open source**, permitindo que outros profissionais e entusiastas possam estudar, utilizar e evoluir as ferramentas junto conosco.
+<p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
+
+
+
