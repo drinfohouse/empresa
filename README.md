@@ -1,6 +1,6 @@
 # <img src="https://github.com/drinfohouse/empresa/blob/main/g7439.png" alt="DrInfoHouse Logo" width="45" valign="middle"> DrInfoHouse
 **Bem-vindo(a) à DrInfoHouse**. <br> 
-Conheça o que nos diferencia de uma _assistência_genérica_ e como trabalhamos para entregar soluções que agregam valor.
+Conheça o que nos diferencia de uma _assistência genérica_ e como trabalhamos para entregar soluções que agregam valor.
 
 <a name="sumario"></a>
 ##  Sumário de Navegação
