@@ -125,5 +125,9 @@ _obs: por ser área residencial, não temos local de espera para clientes._
 - [Saiba mais]()
 
 
-<p align="right"><a href="#sumario">⬆ Voltar ao sumário</a></p>
-
+<p align="center">
+  <a href="https://wa.me/554196596617">WhatsApp</a> • 
+  <a href="https://github.com/drinfohouse">GitHub</a> • 
+  <a href="https://youtube.com/@drinfohouse">YouTube</a> • 
+  <a href="#sumario">Voltar ao Topo ⬆</a>
+</p>
