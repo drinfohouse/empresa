@@ -21,6 +21,9 @@ Como procedemos:<br>
 * **Execução:** O serviço é realizado seguindo normas técnicas podendo ser gravado para registro.
 * **Avaliação:** Verificação do sistema após intervenção encerrando a manutenção crítica.
 
+
+<br>
+
 ## 3. Reparo de Dobradiça e Carcaça
 Este procedimento é classificado como uma intervenção de **alto risco** e alta complexidade técnica. 
 
