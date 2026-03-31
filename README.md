@@ -119,9 +119,9 @@ _obs: por ser área residencial, não temos local de espera para clientes._
 <br>
 
 **Documentação Técnica**
-- Contrato de Serviço e Consentimento de Riscos
-- Explicação de cuidados e riscos de cada serviço
-- [Saiba mais]()
+- Contrato de Serviço e Consentimento de Riscos [(conferir)](https://github.com/drinfohouse/empresa/blob/main/docs/1.%20DrInfoHouse%20-%20Contrato%20Presta%C3%A7%C3%A3o%20Servi%C3%A7os.pdf)
+- Explicação de cuidados e riscos de cada serviço [(conferir)](https://github.com/drinfohouse/empresa/blob/main/docs/2.%20DrInfoHouse%20-%20Consentimento%20de%20Riscos.pdf)
+- Serviços Críticos [(saiba mais)](https://github.com/drinfohouse/empresa/tree/main/serv_critico)
 
 ---
 
