@@ -1,6 +1,6 @@
 # DrInfoHouse
 ## Serviços Críticos
-Detalhamos os serviços que exigem atenção especial e a assinatura do **Termo de Consentimento**.
+Detalhamos os serviços que exigem atenção especial e a assinatura do [**Termo de Consentimento**](https://github.com/drinfohouse/empresa/blob/main/serv_critico/3.%20DrInfoHouse%20-%20Termo%20de%20Ciencia%20e%20Responsailidade%20Técnica.pdf).
 
 <br>
 
